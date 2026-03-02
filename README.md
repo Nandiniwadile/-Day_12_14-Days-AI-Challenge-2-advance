@@ -2,8 +2,6 @@
 
 # 🚀 Day 12 – Cost Optimization Basics
 
-📅 Date: 03/03/2026
-
 ## 🎯 Objective
 
 The goal of Day 12 was to understand and apply basic cost optimization techniques in Spark and Databricks by:
