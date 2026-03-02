@@ -1,3 +1,4 @@
+
 ---
 
 # 🚀 Day 12 – Cost Optimization Basics
@@ -10,9 +11,10 @@ The goal of Day 12 was to understand and apply basic cost optimization technique
 * Reducing unnecessary actions
 * Documenting cost-saving ideas
 
-Dataset used: `workspace.default.data`
+Dataset used: "workspace.default.data"
 
 ---
+
 
 # 📊 Step 1 – Load Dataset
 
